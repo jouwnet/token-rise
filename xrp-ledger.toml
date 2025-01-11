@@ -1,0 +1,16 @@
+# Required header
+XRPLF_CONTACT_EMAIL = "info@risev2.com"
+
+# Issuer Account
+[[ACCOUNTS]]
+address = "rLk9bGvjTS6bMhvvfw5dFWPKFdyFErYenk"  
+network = "main"
+
+# Token Metadata
+[[CURRENCIES]]
+code = "5249534500000000000000000000000000000000"
+issuer = "rLk9bGvjTS6bMhvvfw5dFWPKFdyFErYenk"
+display_decimals = 5
+icon = "https://framerusercontent.com/images/YRC7VnsTOeCTCR3UOqwUwcPHkCg.png"
+name = "RISE"
+desc = "RISE is more than just a meme, it's a movement driving financial independence through a decentralized revolution on the XRP Ledger."
